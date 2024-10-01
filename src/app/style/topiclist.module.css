@@ -1,0 +1,16 @@
+.topichead{
+  padding: 1rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cbd5e1;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.25rem;
+}
+.topichead3{
+  display: flex;
+  gap: 0.5rem;
+}
